@@ -1,2 +1,4 @@
 dane
+
 zmiana w starym
+zmiana w nowym
